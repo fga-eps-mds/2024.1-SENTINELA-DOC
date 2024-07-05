@@ -63,12 +63,16 @@ Os commits devem ser feitos em inglês utilizando os verbos no imperativo.
 
 Os commits podem ser feitos utilizando o parametro **-s** para ter a assinatura do autor do commit. Caso o commit tenha sido feito em pareamento, deve constar no commit os co-autores.
 
-O commit deve começar com `[x] -`, sendo x o número da issue que está sendo desenvolvida.
+O commit deve começar com `[y:x] -`, sendo x o número da issue que está sendo desenvolvida. e y a categoria do commit (feat, fix, hotfix, ...)
 
-Exemplo de commit:
+Exemplos de commit:
 
 ```
-git commit -sm "[7] - Add contributing guide
+git commit -sm "[feat:7] - Add contributing guide
+
+Co-authored-by: Nome da dupla <emaildadupla@email.com>"
+
+git commit -sm "[fix:7] - Add contributing guide
 
 Co-authored-by: Nome da dupla <emaildadupla@email.com>"
 ```

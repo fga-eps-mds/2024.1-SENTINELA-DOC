@@ -46,7 +46,15 @@ nav:
     - Dia 4: lean/dia4.md
     - Dia 5: lean/dia5.md
     - Dia 6: lean/dia6.md
-
+  - Ritos:
+    - Sprints:
+      - Sprint_0:
+        - Review: ritos/sprints/sprint0_review.md
+        - Planning: ritos/sprints/sprint0_planning.md
+        - retrospectiva: ritos/sprints/sprint0_retrospec.md
+    - Review: ritos/review.md
+    - Planning: ritos/planning.md
+    - retrospectiva: ritos/retrospectiva.md
   - Prototipagem:
     - Identidade Visual: prototipagem/idv.md
     - Testes de usabilidade: prototipagem/testesusabilidade.md
