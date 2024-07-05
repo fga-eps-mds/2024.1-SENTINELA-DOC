@@ -54,7 +54,7 @@ nav:
         - retrospectiva: ritos/sprints/sprint0_retrospec.md
     - Review: ritos/review.md
     - Planning: ritos/planning.md
-    - retrospectiva: ritos/retrospectiva.md
+    - retrospectiva: ritos/restrospective.md
   - Prototipagem:
     - Identidade Visual: prototipagem/idv.md
     - Testes de usabilidade: prototipagem/testesusabilidade.md
