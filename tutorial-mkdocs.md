@@ -20,6 +20,23 @@ $ source ~/.zshrc
 
 $ pip install mkdocs-material
 
+### alternativamente:
+
+| $ python3 -m venv venv
+
+| $ source venv/bin/activate
+
+| $ pip3 install -r requirements.txt 
+
+| $ mkdocs serve
+
+após testar e terminar:
+
+| CTRL + C | para fechar o servidor local mkdocs,
+
+| $ deactivate | para sair do ambiente python
+
+
 ## Como usar
 
 dentro do arquivo mkdocs.yml o "nav" é a barra de navegação para do github pages. Crie um arquivo .md e refencie na nav. exemplo:
