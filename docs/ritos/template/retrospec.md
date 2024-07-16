@@ -4,8 +4,4 @@
 
 - Fazer uma breve análise sobre os resultados obtidos ao fim da sprint
 
-# Pontos Positivos listados pela equipe
-  - Inserir imagem com os pontos positivos discutidos
-
-# Pontos a Melhorar listados pela equipe
-  - Inserir imagem com os pontos a melhorar discutidos
+# Pontos Positivos e Negativos

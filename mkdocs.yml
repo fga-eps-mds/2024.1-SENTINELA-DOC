@@ -49,9 +49,8 @@ nav:
   - Ritos:
     - Sprints:
       - Sprint_0:
-        - Review: ritos/sprints/sprint0_review.md
-        - Planning: ritos/sprints/sprint0_planning.md
-        - retrospectiva: ritos/sprints/sprint0_retrospec.md
+        - Retrospectiva: ritos/sprints/sprint0/sprint0_retrospec.md
+        - Retomada: ritos/sprints/sprint0/sprint0_retomada.md
     - Review: ritos/review.md
     - Planning: ritos/planning.md
     - retrospectiva: ritos/restrospective.md
