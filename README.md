@@ -10,4 +10,6 @@ O ambiente completo de desenvolvimento pode ser acessado em:
 
 - [Documentação](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC)
 - [Frontend](https://github.com/fga-eps-mds/2024.1-SENTINELA-FRONT)
-- [API de Usuários](https://github.com/fga-eps-mds/2024.1-SENTINELA-BACKEND-USUARIOS)
+- [API de Usuários](https://github.com/fga-eps-mds/2024.1-SENTINELA-BACKUSUARIOSEND-USUARIOS)
+- [API de Financeiro](https://github.com/fga-eps-mds/2024.1-SENTINELA-BACKEND-FINANCEIRO)
+- [API de Benefícios](https://github.com/fga-eps-mds/2024.1-SENTINELA-BACKEND-BENEFICIOS)
