@@ -9,7 +9,7 @@ Nossa equipe adotou uma metodologia híbrida baseada em Scrum e práticas do Ext
 ### 1. Planning
 
 - **Objetivo:** Definir as metas e tarefas para o próximo ciclo de desenvolvimento.
-- **Frequência:** Quinzenal
+- **Frequência:** Semanal
 - **Participantes:** Toda a equipe
 - **Atividades:**
   - Revisar o backlog de produto
@@ -18,18 +18,18 @@ Nossa equipe adotou uma metodologia híbrida baseada em Scrum e práticas do Ext
 
 ### 2. Review
 
-- **Objetivo:** Apresentar o trabalho realizado durante o sprint.
-- **Frequência:** Quinzenal (ao final de cada sprint)
+- **Objetivo:** Apresentar o trabalho realizado durante a sprint e validar com o PO.
+- **Frequência:** Semanal 
 - **Participantes:** Toda a equipe, incluindo stakeholders
 - **Atividades:**
   - Demonstração das funcionalidades desenvolvidas
   - Feedback dos stakeholders
   - Atualização do backlog com base no feedback recebido
 
-### 3. Retrospective
+### 3. Retrospectiva
 
 - **Objetivo:** Refletir sobre o sprint passado e identificar melhorias para os próximos sprints.
-- **Frequência:** Quinzenal (após a Review)
+- **Frequência:** Semanal
 - **Participantes:** Toda a equipe
 - **Atividades:**
   - Discussão sobre o que funcionou bem e o que pode ser melhorado
@@ -38,8 +38,9 @@ Nossa equipe adotou uma metodologia híbrida baseada em Scrum e práticas do Ext
 ### Datas da reuniões
 Para realizar as reunião ficou decidido que:
 
-- Retrospectiva: Será realizada toda sexta-feira.
-- Review e Planning: Seram realizadas na segunda, após a reunião com o cliente.
+- Retrospectiva: Será realizada toda segunda-feira após reunião com cliente.
+- Review: Será realizada toda segunda-feira às 20h em reunião com cliente.
+- Planning: Toda sexta-feira às 16h.
 
 ## Práticas do Extreme Programming (XP)
 
@@ -50,28 +51,13 @@ Para realizar as reunião ficou decidido que:
   - **Driver:** Escreve o código
   - **Observer:** Revê o código, sugere melhorias e pensa na estratégia geral
 
-## Ferramentas de Organização e Comunicação
-
-### Telegram
-
-- **Uso:** Comunicação rápida e direta entre os membros da equipe
-- **Vantagens:** Acessibilidade e facilidade de uso
-
-### Discord
-
-- **Uso:** Reuniões em grupo, chamadas de voz e videochamadas
-- **Vantagens:** Qualidade de áudio/vídeo, canais de texto e voz organizados
-
-### Git
-
-- **Uso:** Controle de versão do código fonte
-- **Vantagens:** Histórico de alterações, possibilidade de trabalho colaborativo, integração com outras ferramentas
-
-### ZenHub
-
-- **Uso:** Gerenciamento de tarefas e acompanhamento do progresso
-- **Vantagens:** Integração com GitHub, visualização de boards Kanban, rastreamento de issues
-
 ## Conclusão
 
 Adotando essa combinação de Scrum e XP, visamos a maximização da produtividade e a qualidade do nosso produto final. As ferramentas escolhidas suportam nossas necessidades de comunicação e organização, facilitando a colaboração e a transparência em todas as fases do desenvolvimento.
+
+## Histórico de versão
+
+| Alteração | Data | Autor | 
+| - | - | - |
+| Criação do documento |  | Victor Yukio |
+| Revisão | 18/07/24 | Sara Campos | 

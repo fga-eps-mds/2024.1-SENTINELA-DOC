@@ -1,8 +1,8 @@
 site_name: 2024.1 - SENTINELA
-site_url: 'https://documentacao-SENTINELA.com/'
+site_url: "https://documentacao-SENTINELA.com/"
 
-repo_name: '2024.1 - SENTINELA'
-repo_url: 'https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC'
+repo_name: "2024.1 - SENTINELA"
+repo_url: "https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC"
 
 extra_css:
   - stylesheets/extra.css
@@ -25,7 +25,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
         primary: brown
-    
+
   # logo:
   # favicon:
 
@@ -34,28 +34,29 @@ plugins:
 
 nav:
   - Sobre: index.md
-  - Alinhamento da equipe: 
-    - Quadro de disponibilidade: alinhamento/disponibilidade.md
-    - Quadro de conhecimento: alinhamento/heatmap.md
-    - Planejamento de dojos: alinhamento/dojos.md
-    - Canais de comunicação: alinhamento/canais.md
+  - Alinhamento da equipe:
+      - Quadro de disponibilidade: alinhamento/disponibilidade.md
+      - Quadro de conhecimento: alinhamento/heatmap.md
+      - Planejamento de dojos: alinhamento/dojos.md
+      - Canais de comunicação: alinhamento/canais.md
   - Lean Inception:
-    - Dia 1: lean/dia1.md
-    - Dia 2: lean/dia2.md
-    - Dia 3: lean/dia3.md
-    - Dia 4: lean/dia4.md
-    - Dia 5: lean/dia5.md
-    - Dia 6: lean/dia6.md
+      - Dia 1: lean/dia1.md
+      - Dia 2: lean/dia2.md
+      - Dia 3: lean/dia3.md
+      - Dia 4: lean/dia4.md
+      - Dia 5: lean/dia5.md
+      - Dia 6: lean/dia6.md
+      - Dia 7: lean/dia7.md
   - Ritos:
-    - Sprints:
-      - Sprint_0:
-        - Retrospectiva: ritos/sprints/sprint0/sprint0_retrospec.md
-        - Retomada: ritos/sprints/sprint0/sprint0_retomada.md
-    - Review: ritos/review.md
-    - Planning: ritos/planning.md
-    - retrospectiva: ritos/restrospective.md
+      - Sprints:
+          - Sprint 0:
+              - Retomada às atividades: ritos/sprints/sprint0/sprint0_retomada.md
+              - Retrospectiva: ritos/sprints/sprint0/sprint0_retrospec.md
+      # - Review: ritos/review.md
+      # - Planning: ritos/planning.md
+      # - Retrospectiva: ritos/restrospective.md
   - Prototipagem:
-    - Identidade Visual: prototipagem/idv.md
-    - Testes de usabilidade: prototipagem/testesusabilidade.md
+      - Identidade Visual: prototipagem/idv.md
+      - Testes de usabilidade: prototipagem/testesusabilidade.md
   - Guia de contribuição: guia-de-contribuicao.md
   - Metodologia: metodologia.md

@@ -7,6 +7,9 @@ Os dojos são treinamentos realizados pelos EPS para contribuir com a evolução
 | Git | 27/03/24 | 21h | Victor Yukio | Remoto | 
 | Scrum + Kanban | 04/04/24 | 13h | Sara Campos | Presencial + Remoto | 
 | HTML + CSS + Material UI + Princípios de ReactJS | 06/04/24 | 15h | Victor Yukio | Remoto |
+| Frontend Vite.js | 11/07/24 | 20h | Sara Campos, Ingrid Carvalho e Victor Yukio | Remoto |
+| Backend Node Express | 16/07/24 | 20h | Victor Yukio | Remoto | 
+
 
 
 ## Histórico de versão
@@ -16,3 +19,4 @@ Os dojos são treinamentos realizados pelos EPS para contribuir com a evolução
 | Criação do documento | 27/03/24 | Sara Campos |
 | Atualização | 05/04/24 | Sara Campos | 
 | Atualização | 06/04/24 | Sara Campos | 
+| Atualização | 18/07/24 | Sara Campos | 

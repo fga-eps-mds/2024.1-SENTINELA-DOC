@@ -5,6 +5,12 @@ Este é o repositório de documentação do projeto Sentinela realizado pelos al
 ## Repositórios do projeto
 
 - [Documentação](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC)
+- [Frontend](https://github.com/fga-eps-mds/2024.1-SENTINELA-FRONT)
+- [Backend-Usuários](https://github.com/fga-eps-mds/2024.1-SENTINELA-BACKEND-USUARIOS)
+- [Backend-Benefícios](https://github.com/fga-eps-mds/2024.1-SENTINELA-BACKEND-BENEFICIOS)
+- [Backend-Financeiro](https://github.com/fga-eps-mds/2024.1-SENTINELA-BACKEND-FINANCEIRO)
+
+
 <!-- - [Frontend](https://github.com/fga-eps-mds/2024.1-SINDPOL-Front) -->
 
 ## Integrantes do time
@@ -38,3 +44,4 @@ Este é o repositório de documentação do projeto Sentinela realizado pelos al
 | - | - | - |
 | Criação do documento | 26/03/24 | Sara Campos |
 | Correções | 28/03/24 | Sara Campos |
+| Atualização dos repositórios do projeto | 18/07/24 | Sara Campos |
