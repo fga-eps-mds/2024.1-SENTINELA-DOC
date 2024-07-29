@@ -34,7 +34,11 @@ plugins:
 
 nav:
   - Sobre: index.md
-  - Riscos: riscos.md
+  - Gestão:
+      - Riscos: riscos.md
+      - Arquitetura: arquitetura.md
+      - EAP: eap.md
+      - Metodologia: metodologia.md
   - Alinhamento da equipe:
       - Quadro de disponibilidade: alinhamento/disponibilidade.md
       - Quadro de conhecimento: alinhamento/heatmap.md
@@ -60,4 +64,3 @@ nav:
       - Identidade Visual: prototipagem/idv.md
       - Testes de usabilidade: prototipagem/testesusabilidade.md
   - Guia de contribuição: guia-de-contribuicao.md
-  - Metodologia: metodologia.md
