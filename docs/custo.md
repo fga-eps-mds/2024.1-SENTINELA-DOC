@@ -64,7 +64,7 @@ Com isso, podemos pegar os valores totais de todos os os custos descritos a cima
 | R$ 28.454,40 | R$ 2358,40 | R$ 42.000  | R$ 1.145,52 | R$2.400 | R$ 76.358,72 |
 
 |  Alunos | Professor | Enegia  | Internet | Total por Sprint | 
-|------|----------|--------|--------|--------|--------|
+|---------|-----------|---------|----------|------------------|
 | R$ 3.556,80 | R$ 294,80 | R$ 143,19 | R$ 300 | R$ 4.294,79 |
 
 ## Referências
