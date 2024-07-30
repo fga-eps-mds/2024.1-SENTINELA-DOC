@@ -39,6 +39,7 @@ nav:
       - Arquitetura: arquitetura.md
       - EAP: eap.md
       - Metodologia: metodologia.md
+      - Custo: custo.md
   - Alinhamento da equipe:
       - Quadro de disponibilidade: alinhamento/disponibilidade.md
       - Quadro de conhecimento: alinhamento/heatmap.md
