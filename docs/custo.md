@@ -5,7 +5,8 @@ Esse documento descreve os custos do desenvolvimento desse projeto, contabilizan
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor |
 |------|--------|-----------|-------|
-| 30/07/2024 | 1.0 | Criação documento| Álvaro Gouvea |
+| 30/07/2024 | 1.0 | Criação documento | Álvaro Gouvea |
+| 30/07/2024 | 1.1 | Correção de Valor | Álvaro Gouvea |
 
 
 ### Custo por aluno da Universidade de Brasília.
@@ -14,7 +15,7 @@ O custo por aluno para esse projeto foi encontrado partindo do valor anual do al
 
 | Custo anual por aluno | Custo semanal por aluno | Valor hora/aluno | Custo por aluno por sprint | Custo total dos alunos |
 |------|--------|-----------|---------------|----------|
-| R$ 37.551 | R$ 3.129 | R$ 24,70 | R$ 296,45 | R$ 3.851,60 |
+| R$ 37.551 | R$ 3.129 | R$ 24,70 | R$ 296,45 | R$ 3.556,80 |
 
 ### Custo hora/aula do professor.
 
@@ -61,7 +62,7 @@ Com isso, podemos pegar os valores totais de todos os os custos descritos a cima
 
 |  Alunos | Professor | Equipamento  | Enegia  | Internet | Total | 
 |------|----------|--------|--------|--------|--------|
-| R$ 28.454,40 | R$ 2358,40 | R$ 42.000  | R$ 1.145,52 | R$2.400 | R$ 76.358,72 |
+| R$ 28.454,40 | R$ 2358,40 | R$ 42.000  | R$ 1.145,52 | R$2.400 | R$ 75.471,96 |
 
 |  Alunos | Professor | Enegia  | Internet | Total por Sprint | 
 |---------|-----------|---------|----------|------------------|
