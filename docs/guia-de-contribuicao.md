@@ -22,30 +22,53 @@ As issues do projetos devem ser completas e explicativas, seguindo o template de
 As issues devem conter:
 
 - Um título conciso e descritivo;
-- Uma descrição, seguindo o template do repositório, que deve incluir uma descrição completa da issue e criterios para a aceitação;
-- Um *Assignee* responsável pela issue;
-- *Labels* signaficativas;
-- *Milestone* (sprint) em que a issue deve ser concluiída;
-- *Estimated* (pontuação) atribuida a issue;
+- Uma descrição que deve incluir uma descrição completa da issue e suas tarefas;
+- Em caso de História de Usuário, descrever de maneira clara e detalhadas os criterios de aceitação, assim como adicionar o prótitpo navegável do fluxo em questão;
+- Ao menos um _Assignee_ responsável pela issue;
+- [_Labels_](#labels);
+- _Milestone_ (sprint) em que a issue espera ser concluiída;
+- _Estimated_ (pontuação) atribuida a issue;
+
+### Labels
+
+Na criação de uma issue, devem ser usados os rótulos abaixo para classifcá-la:
+
+- Bug: indica um problema ou comportamento inesperados
+- UX: indica que a issue é referente a práticas de _User Experience_
+- Treinamento: indica que a issue é sobre treinamentos (dojos)
+- Hotfix (cor #d73a4a): indica uma correção de defeitos críticos
+- Docs (cor #0075ca): indica a aplicação de melhorias ou adições à documentação do projeto
+- Feature (cor #094EF2): indica a introdução de uma funcionalidade nova US (cor #BE71F6): indica que a issue é uma história de usuário (user story)
+- Frontend (cor #56384A): Indica que está relacionada ao frontend da aplicação
+- Backend (cor #95BDC7): Indica que está relacionada ao backend da aplicação
+- Arq (cor #0D5571): indica mudanças na arquitetura da aplicação ou de um de seus módulos ou serviços
+- Devops (cor #9014A0): indica mudanças na esteira de integração e disponibilização contínua
+- Analytics (cor #12477F): indica mudanças nos analisadores estáticos
+- Easy (cor #C5DEF5): indica que a issue tem uma dificuldade baixa
+- Medium (cor #BFD4F2): indica que a issue possui um grau médio de dificuldade
+- Hard (cor #D4C5F9): indica que a issue possui um alto grau de dificuldade
+- EPS #006633: indica que a issue será trabalhado por alunos da disciplina de Engenharia de Produto de Software (EPS)
+- MDS (cor #0068b4): indica que a issue será trabalhado por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS)
 
 ## Politica de branches
 
 ### Repositórios de desenvolvimento
 
-Nos repositórios a **main** é a branch principal.
+Nos repositórios a **devel** é a branch padrão que está sempre atualizada. A branch **main** comporta as Releases lançadas do projeto, sendo a branch mais estável.
 
 #### main
+
 A branch **main** deve ser a branch mais estável do projeto, que estará em produção. Essa branch é protegida de commits e para o desenvolvimento de novas funcionalidades, deve receber Pull Requests (PRs).
 
 #### development
-A branch **development** deve ser a branch de desenvolvomento do projeto, que estará em produção. Essa branch também é protegida de commits e para o desenvolvimento de novas funcionalidades, deve receber Pull Requests assim como a **main**(PRs). Uma vez que todas as funcionalidades da sprint são testadas e mescladas na branch de desenvolvimento podemos mesclar com a branch principal, a **main**.
+
+A branch **devel** deve ser a branch de desenvolvomento do projeto, que estará em produção. Essa branch também é protegida de commits e para o desenvolvimento de novas funcionalidades, deve receber Pull Requests assim como a **main**(PRs). Uma vez que todas as funcionalidades da sprint são testadas e mescladas na branch de desenvolvimento podemos mesclar com a branch principal, a **main**.
 
 #### Novas branches
-As branches para o desenvolvimento de novas features devem ser criadas a partir da branch **main** e devem seguir o padrão **x-nome-da-issue**, onde x é o número da issue que será resolvida na branch, acompanhado pelo nome da issue.
 
-Os Pull Requests das novas branches devem ser feitos para a branch **main**.
+As branches para o desenvolvimento de novas features devem ser criadas a partir da branch **devel** e devem seguir o padrão **x-nome-da-issue**, onde x é o número da issue que será resolvida na branch, acompanhado pelo nome da issue.
 
-Em casos de correções rápidas de bugs, a branch  deve seguir o padrão **FIX-x-problema-a-ser-resolvido**, onde x é o número da issue, caso tenha.
+Os Pull Requests das novas branches devem ser feitos para a branch **devel**.
 
 ### Repositório de documentação
 
@@ -75,11 +98,13 @@ Co-authored-by: Nome da dupla <emaildadupla@email.com>"
 git commit -sm "[fix:7] - Add contributing guide
 
 Co-authored-by: Nome da dupla <emaildadupla@email.com>"
+
+git commit -sm "[docs:7] - Add contributing guide
 ```
- 
+
 ## Politica de pull requests
 
-Os PRs devem ser feitos a branch **main**.
+Os PRs devem ser feitos a branch **devel**.
 
 Os Pull Requests devem ser feitos seguindo o template:
 
@@ -91,19 +116,27 @@ Descrição completa do que foi feito
 
 ```
 
-Onde só deve ser utilizado o *closes* antes do link da issue, caso o PR resolva completamente a issue citada.
+Onde só deve ser utilizado o _closes_ antes do link da issue, caso o PR resolva completamente a issue citada.
 
-Caso o PR seja feito em um dos repositórios de desenvolvimento (backend de x, forntend,...), o link para a issue do repositório de documentação é feito da seguinte forma: `fga-eps-mds/2024.1-SENTINELA-DOC#x`, onde x é o número da issue. E no lugar de *closes* deve ser utilizado  ***resolves***.
+Caso o PR seja feito em um dos repositórios de desenvolvimento (backend de x, frontend,...), o link para a issue do repositório de documentação é feito da seguinte forma: `fga-eps-mds/2024.1-SENTINELA-DOC#x`, onde x é o número da issue. E no lugar de _closes_ deve ser utilizado **_resolves_**.
 
 Em casos de PRs em que ainda estão sendo desenvolvidos, deve ser acrescentado a sigla **WIP** antes do título do PR.
 
 Os PRs devem conter:
 
-- Um título conciso e descritivo;  
-- Um *Assignee* responsável pelo PR;  
-- Um *Reviewer* responsável pela revisão do PR;  
-- *Labels* signaficativas;  
-- Uma issue associada;  
-- Uma descrição, seguindo o template do repositório, que deve incluir uma descrição completa do que foi feito e a issue relacionada.  
+- Um título conciso e descritivo;
+- Um _Assignee_ responsável pelo PR;
+- Um _Reviewer_ responsável pela revisão do PR;
+- _Labels_ significativas;
+- Uma issue associada;
+- Uma descrição, seguindo o template do repositório, que deve incluir uma descrição completa do que foi feito e a issue relacionada.
 
 Os PRs só serão aceitos após passarem pelo CI estabelecido e por duas revisões.
+
+## Histórico de versão
+
+| Alteração                   | Data     | Autor        |
+| --------------------------- | -------- | ------------ |
+| Criação do documento        |          | Victor Yukio |
+| Atualização                 |          | Ingrid       |
+| Revisão e adição das labels | 03/08/24 | Sara Campos  |
