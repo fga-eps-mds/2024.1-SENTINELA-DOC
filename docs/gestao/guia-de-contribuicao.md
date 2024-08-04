@@ -116,9 +116,9 @@ Descrição completa do que foi feito
 
 ```
 
-Onde só deve ser utilizado o _closes_ antes do link da issue, caso o PR resolva completamente a issue citada.
+Onde só deve ser utilizado o *closes* antes do link da issue, caso o PR resolva completamente a issue citada.
 
-Caso o PR seja feito em um dos repositórios de desenvolvimento (backend de x, frontend,...), o link para a issue do repositório de documentação é feito da seguinte forma: `fga-eps-mds/2024.1-SENTINELA-DOC#x`, onde x é o número da issue. E no lugar de _closes_ deve ser utilizado **_resolves_**.
+Caso o PR seja feito em um dos repositórios de desenvolvimento (backend de x, forntend,...), o link para a issue do repositório de documentação é feito da seguinte forma: `fga-eps-mds/2024.1-SENTINELA-DOC#x`, onde x é o número da issue. E no lugar de *closes* deve ser utilizado  ***resolves***.
 
 Em casos de PRs em que ainda estão sendo desenvolvidos, deve ser acrescentado a sigla **WIP** antes do título do PR.
 
