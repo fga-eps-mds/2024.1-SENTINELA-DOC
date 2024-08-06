@@ -1,4 +1,4 @@
-## Custos de projeto 
+# Custos de projeto 
 
 Esse documento descreve os custos do desenvolvimento desse projeto, contabilizando internet, energia, os equipamentos de desenvolvimento assim como o custo por hora do aluno e do professor para a instituição.
 
@@ -7,23 +7,16 @@ Esse documento descreve os custos do desenvolvimento desse projeto, contabilizan
 |------|--------|-----------|-------|
 | 30/07/2024 | 1.0 | Criação documento | Álvaro Gouvea |
 | 30/07/2024 | 1.1 | Correção de Valor | Álvaro Gouvea |
+| 06/08/2024 | 1.2 | Correção do Documento | Álvaro Gouvea |
 
 
 ### Custo por aluno da Universidade de Brasília.
 
-O custo por aluno para esse projeto foi encontrado partindo do valor anual do aluno ajustado para a inflação. A partir desse valor foi contabilizado o valor semanal partindo do principio de 38 semanas de aula anuais, e por fim contabilizado uma carga horária entre todas as disciplinas de aproximadamente 40 horas semanais para encontrar uma estimativa de valor hora/aluno.
+O custo por aluno para esse projeto foi encontrado partindo do valor anual do aluno ajustado para a inflação por meio da calculadora de inflação do [Banco Central do Brasil](https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice) ajustando de período da publicação da notícia até o mês de junho de 2024. A partir desse valor foi contabilizado o valor semanal partindo do principio de 38 semanas de aula anuais, e por fim contabilizado uma carga horária entre todas as disciplinas de aproximadamente 40 horas semanais para encontrar uma estimativa de valor hora/aluno.
 
-| Custo anual por aluno | Custo semanal por aluno | Valor hora/aluno | Custo por aluno por sprint | Custo total dos alunos |
+| Custo anual por aluno | Custo semanal por aluno | Valor hora/aluno | Custo por aluno por semana | Custo total dos alunos |
 |------|--------|-----------|---------------|----------|
 | R$ 37.551 | R$ 3.129 | R$ 24,70 | R$ 296,45 | R$ 3.556,80 |
-
-### Custo hora/aula do professor.
-
-Calculado o custo hora/aula do professor e seu valor total considerand as 5 horas semanais presente conosoco.
-
-| Valor hora/aula | Total |
-|------|--------|
-| R$ 58,96 | R$ 294,80 |
 
 
 
@@ -40,6 +33,8 @@ O custo desse equipamento para no mês de julho de 2024 se aproxima de R$3.500 p
 |------|--------|
 | R$ 3.500 | R$ 42.000 |
 
+O custo de equipamentos para desenvolvimento foi contabilizado uma única vez no período de ínicio da primeira sprint de desenvolvimento do produto.
+
 ## Custos com energia
 
 Para esse cálculo foi contabilizado uma máquina de uso de aproximadamente 2kwh nas 12 horas de trabalho semanais de cada integrante. De acordo com a NeoEnergia responsável pelo fornecimento de energia elétrica no DF o valor do kwh está R$0,9944 que será contabilizado para as 12 horas de trabalho semanais.
@@ -52,21 +47,38 @@ Para esse cálculo foi contabilizado uma máquina de uso de aproximadamente 2kwh
 
 O custo médio para uma banda larga de internet que possui 250 mega está em torno de R$ 100 reais. 
 
-| Custo de internet para um integrante | Custo por Sprint | Total por Sprint |
+| Custo de internet para um integrante | Custo por Semana | Total por Semana |
 |------|--------|--------|
 | R$ 100 | R$ 25  | R$ 300 | 
 
 ## Total
 
-Com isso, podemos pegar os valores totais de todos os os custos descritos a cima e obter o custo total por sprint e para o projeto. 
+Com isso, podemos pegar os valores totais de todos os os custos descritos a cima e obter o custo total por semana, para as releases major e para o projeto até a data atual.
+Além das semanas de desenvolvimento (sprints) também foram coontabilizados o período de iniciação do projeto a partir da data de ínicio da disciplina até o período inicial da primeira sprint, descontando o período de 15/04/2024 à 25/06/2024 por conta da greve dos docentes.
 
-|  Alunos | Professor | Equipamento  | Enegia  | Internet | Total | 
-|------|----------|--------|--------|--------|--------|
-| R$ 28.454,40 | R$ 2358,40 | R$ 42.000  | R$ 1.145,52 | R$2.400 | R$ 75.471,96 |
 
-|  Alunos | Professor | Enegia  | Internet | Total por Sprint | 
-|---------|-----------|---------|----------|------------------|
-| R$ 3.556,80 | R$ 294,80 | R$ 143,19 | R$ 300 | R$ 4.294,79 |
+
+- Custo do Projeto até a data:
+  
+|  Alunos      | Equipamento  | Enegia         | Internet    |        Total | 
+|--------------|--------------|----------------|-------------|--------------|
+| R$ 32.011,20 |   R$ 42.000  | R$ R$ 1.181,35 | R$ 2.475,00 | R$ 77.667,55 |
+
+
+
+- Custo da Release 1:
+  
+|  Alunos      | Equipamento  | Enegia         | Internet    | Total        | 
+|--------------|--------------|----------------|-------------|--------------|
+| R$ 32.011,20 | R$ 42.000    | R$ R$ 1.181,35 | R$ 2.475,00 | R$ 77.667,55 |
+
+
+
+- Custo Semanal do Projeto:
+  
+|  Alunos     |   Enegia  | Internet | Total por Semana | 
+|-------------|-----------|----------|------------------|
+| R$ 3.556,80 | R$ 131,26 |  R$ 275  | R$ 3.963,06      |
 
 ## Referências
 
@@ -74,6 +86,8 @@ Com isso, podemos pegar os valores totais de todos os os custos descritos a cima
 
 [Notebook Lenovo](https://www.kabum.com.br/produto/399676/notebook-lenovo-ideapad-3i-intel-core-i7-1165g7-8gb-ram-256gb-ssd-15-6-full-hd-windows-11-cinza-82md0008br), último acesso em 30/07/2024
 
-[Energia elétrica]: Estimado conforme amostra da companhia de energia (NeoEnergia), último acesso em 30/07/2024
+Energia elétrica: Estimado conforme amostra da companhia de energia (NeoEnergia), último acesso em 30/07/2024
+
+[Calculadora de Inflação Banco Central](https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice), último acesso em 06/08/2024
 
 [Custos com internet](https://www.claro.com.br/internet/banda-larga), último acesso em 30/07/2024
