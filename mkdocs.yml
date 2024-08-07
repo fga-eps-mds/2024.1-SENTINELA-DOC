@@ -58,6 +58,19 @@ nav:
       - Início:
           - Retomada às atividades: ritos/sprints/sprint0/sprint0_retomada.md
           - Retrospectiva: ritos/sprints/sprint0/sprint0_retrospec.md
+      - Sprint 1:
+          - Planning: ritos/sprints/sprint1/planning1.md
+          - Pareamentos: ritos/sprints/sprint1/pareamentos1.md
+      - Sprint 2:
+          - Planning: ritos/sprints/sprint2/reviewplanning2.md
+          - Pareamentos: ritos/sprints/sprint2/pareamentos2.md
+      - Sprint 3:
+          - Planning: ritos/sprints/sprint3/reviewplanning3.md
+          - Pareamentos: ritos/sprints/sprint3/pareamentos3.md
+      - Sprint 4:
+          - Planning: ritos/sprints/sprint4/reviewplanning4.md
+          - Pareamentos: ritos/sprints/sprint4/pareamentos4.md
+
   - Prototipagem:
       - Identidade Visual: prototipagem/idv.md
       - Testes de usabilidade: prototipagem/testesusabilidade.md
