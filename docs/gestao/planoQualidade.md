@@ -9,8 +9,6 @@ De acordo com a ISO 25010, a qualidade de um produto de software é definida pel
 
 Para a coleta de métricas em nosso projeto, integramos cada serviço desenvolvido com a ferramenta SonarQube. Utilizamos a interface SonarCloud, que proporciona uma visibilidade mais amigável para a análise de todas as métricas coletadas em cada serviço.
 
-![sonarCloud](../docs/assets/sonarCloud.png)
-
 
 ## Histórico de Versões
 | Alteração            | Data     | Autor        |
