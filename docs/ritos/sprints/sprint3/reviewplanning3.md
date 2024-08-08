@@ -12,9 +12,11 @@ Para a Sprint 3, foram selecionadas histórias de usuário do Backlog do Produto
 
 As histórias de usuário definidas pro sprint backlog foram:
 
+
 - [US34](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/52) - Gerenciar filiações
 - [US19](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/34) - Cadastrar benefícios e convênios
 - [US17](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/32) - Cadastrar perfis com permissões no sistema
+
 
 Como já haviam sido especificados e validados os critérios de aceitação e protótiops de cada uma das US de forma assíncrona, foram definidos os pareamentos responsáveis por cada uma.
 
