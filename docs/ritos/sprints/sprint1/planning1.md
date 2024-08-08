@@ -12,11 +12,11 @@ Para a Sprint 1, foram selecionadas histórias de usuário do Backlog do Produto
 
 As histórias de usuário definidas pro sprint backlog foram:
 
-- [US01](#11) - Fazer login
-- [US02](#17) - Solicitar filiação
-- [US03](#18) - Cadastrar fornecedores
-- [US04](#19) - Cadastrar usuários
-- [US33](#48) - Atualizar dados do usuário como sindicalizado
+- [US01](github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/11) - Fazer login
+- [US02](github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/17) - Solicitar filiação
+- [US03](github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/18) - Cadastrar fornecedores
+- [US04](github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/19) - Cadastrar usuários
+- [US33](github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/48) - Atualizar dados do usuário como sindicalizado
 
 Nessa reunião foram especificados os critérios de aceitação de cada uma das seis US da Release 1 e cada uma foi encaminhada para prototipagem. A US01 (Fazer login) teve um caminho diferente, pois foi uma _User Storie_ que viabilizou a preparação de ambiente e início do códgio fonte, portanto esta já havia sido preparada antes da planning.
 
