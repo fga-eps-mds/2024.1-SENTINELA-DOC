@@ -12,8 +12,10 @@ Para a Sprint 4, foram selecionadas histórias de usuário do Backlog do Produto
 
 As histórias de usuário definidas pro sprint backlog foram:
 
-- [US16](github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/31) - Visualizar dashboard de informações dos sindicalizados
-- [US20](github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/35) - Cadastrar movimentações financeiras
+
+- [US16](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/31) - Visualizar dashboard de informações dos sindicalizados
+- [US20](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC/issues/35) - Cadastrar movimentações financeiras
+
 
 Os critérios de aceitação e protótipos das duas US ficam para validação de forma assíncrona e foram definidos os pareamentos responsáveis por cada uma.
 
