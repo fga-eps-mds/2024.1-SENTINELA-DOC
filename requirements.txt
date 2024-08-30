@@ -1,3 +1,15 @@
+# Deal with data
+pandas
+jsonlib-python3  # json é uma biblioteca padrão, mas jsonlib é útil para manipulações mais avançadas
+glob2  # glob é uma biblioteca padrão, mas glob2 pode ser uma alternativa avançada
+
+# Deal with visualization
+matplotlib
+
+# Deal with time
+datetime  # datetime é uma biblioteca padrão, logo não precisa ser instalada separadamente
+
+# MkDocs related
 mkdocs
 mkdocs-material
 mkdocs-redirects
