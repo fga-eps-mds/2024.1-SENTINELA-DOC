@@ -36,7 +36,6 @@ Para garantir a qualidade do projeto, integramos cada serviço desenvolvido com 
 ## Acompanhamento de métricas do sonar
 
 ### Release 1
-
 Funcionalidades presentes:
 - US01 - Fazer login
 - US02 - Solicitar filiação

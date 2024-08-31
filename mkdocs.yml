@@ -56,8 +56,8 @@ nav:
       - Dia 7: lean/dia7.md
   - Sprints:
       - Início:
-          - Retomada às atividades: ritos/sprints/sprint0/sprint0_retomada.md
-          - Retrospectiva: ritos/sprints/sprint0/sprint0_retrospec.md
+          - Retomada às atividades: ritos/sprints/inicio/retomada_inicio.md
+          - Retrospectiva: ritos/sprints/inicio/retrospec_inicio.md
       - Sprint 1:
           - Planning: ritos/sprints/sprint1/planning1.md
           - Pareamentos: ritos/sprints/sprint1/pareamentos1.md
@@ -70,6 +70,9 @@ nav:
       - Sprint 4:
           - Planning: ritos/sprints/sprint4/reviewplanning4.md
           - Pareamentos: ritos/sprints/sprint4/pareamentos4.md
+      - Sprint 5:
+          - Planning: ritos/sprints/sprint5/reviewplanning5.md
+          - Pareamentos: ritos/sprints/sprint5/pareamentos5.md
 
   - Prototipagem:
       - Identidade Visual: prototipagem/idv.md

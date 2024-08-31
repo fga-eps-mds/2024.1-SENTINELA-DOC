@@ -1,5 +1,4 @@
-# Retrospectiva de Sprint 0
-
+# Retrospectiva inicial
 Nos dias iniciais da Sprint 1 foi realizada uma retrospectiva de maneira remota que gerou algumas reflexões.
 
 ## Pontos positivos e negativos
