@@ -8,8 +8,11 @@ De acordo com a ISO 25010, a qualidade de um produto de software é definida pel
 
 ## Processo de Qualidade
 
-Para a coleta de métricas em nosso projeto, integramos cada serviço desenvolvido com a ferramenta SonarQube. Utilizamos a interface SonarCloud, que proporciona uma visibilidade mais amigável para a análise de todas as métricas coletadas em cada serviço.
-O processo se caracteriza na validação de us com o cliente por critérios de aceitação e protótipo, desenvolvimento, aceitação e apontamento de melhorias
+Para garantir a qualidade do projeto, integramos cada serviço desenvolvido com a ferramenta SonarQube, utilizando a interface SonarCloud para proporcionar uma análise mais amigável e detalhada de todas as métricas coletadas. O processo é orientado pela validação das US com o cliente, utilizando protótipos e critérios de aceitação, seguido pela implementação contínua de melhorias. Após o desenvolvimento, as funcionalidades passam pelos testes de aceitação conduzidos pelo cliente, assegurando que ajustes e aperfeiçoamentos sejam aplicados. Caso novas melhorias sejam identificadas, elas são incorporadas ao processo de desenvolvimento, reforçando a qualidade do produto.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd21595f-81ea-46ab-ba02-123a3e4f390f" alt="eps qualidade">
+</p>
 
 ## Métricas Monitoradas:
 * Cobertura de Código
@@ -66,7 +69,7 @@ Funcionalidades presentes:
 | Alteração            | Data     | Autor        |
 |----------------------|----------|--------------|
 | Criação do documento | 28/07/24 | Ingrid Carvalho |
-| Atualizações sobre o sonar| 22/08/2024 | Ingrid Carvalho |
+| Atualizações sobre o sonar| 31/08/2024 | Ingrid Carvalho |
 
 ## Referências
 [ISO/IEC 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
