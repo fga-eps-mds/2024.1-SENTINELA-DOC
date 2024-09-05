@@ -1,6 +1,7 @@
 # Deal with data
 pandas
 glob2  # glob é uma biblioteca padrão, mas glob2 é uma alternativa para manipulações avançadas
+openpyxl
 
 # Deal with visualization
 seaborn
