@@ -1,3 +1,19 @@
+# Deal with data
+pandas
+glob2  # glob é uma biblioteca padrão, mas glob2 é uma alternativa para manipulações avançadas
+openpyxl
+
+# Deal with visualization
+seaborn
+matplotlib
+
+# Deal with type hints
+# typing é uma biblioteca padrão, não precisa ser instalada separadamente
+
+# Deal with time
+# datetime é uma biblioteca padrão, logo não precisa ser instalada separadamente
+
+# MkDocs related
 mkdocs
 mkdocs-material
 mkdocs-redirects
