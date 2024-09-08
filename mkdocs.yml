@@ -42,7 +42,8 @@ nav:
       - Arquitetura: gestao/arquitetura.md
       - Qualidade: gestao/planoQualidade.md
       - Melhorias e defeitos: gestao/melhorias-defeitos.md
-      - Custo: gestao/custo.md
+      - EVM: gestao/custo.md
+      - Custo: gestao/evm.md
       - Riscos: gestao/riscos.md
       - Guia de contribuição: gestao/guia-de-contribuicao.md
       - Manual de instalação: gestao/manual-de-instalacao.md
