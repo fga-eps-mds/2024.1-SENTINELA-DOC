@@ -35,11 +35,17 @@ plugins:
 nav:
   - Sobre: index.md
   - Gestão:
+<<<<<<< Updated upstream
       - Riscos: gestao/riscos.md
       - Backlog do produto: gestao/backlog.md
       - Arquitetura: gestao/arquitetura.md
+=======
+>>>>>>> Stashed changes
       - EAP: gestao/eap.md
+      - Entregas e roadmap: gestao/roadmap.md
+      - Backlog do produto: gestao/backlog.md
       - Metodologia: gestao/metodologia.md
+      - Arquitetura: gestao/arquitetura.md
       - Qualidade: gestao/planoQualidade.md
       - Custo: gestao/custo.md
       - Guia de contribuição: gestao/guia-de-contribuicao.md
@@ -49,13 +55,13 @@ nav:
       - Planejamento de dojos: alinhamento/dojos.md
       - Canais de comunicação: alinhamento/canais.md
   - Lean Inception:
-      - Dia 1: lean/dia1.md
-      - Dia 2: lean/dia2.md
-      - Dia 3: lean/dia3.md
-      - Dia 4: lean/dia4.md
-      - Dia 5: lean/dia5.md
-      - Dia 6: lean/dia6.md
-      - Dia 7: lean/dia7.md
+      - Parte 1: lean/dia1.md
+      - Parte 2: lean/dia2.md
+      - Parte 3: lean/dia3.md
+      - Parte 4: lean/dia4.md
+      - Parte 5: lean/dia5.md
+      - Parte 6: lean/dia6.md
+      - Parte 7: lean/dia7.md
   - Sprints:
       - Início:
           - Retomada às atividades: ritos/sprints/inicio/retomada_inicio.md
