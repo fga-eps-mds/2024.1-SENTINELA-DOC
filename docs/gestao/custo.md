@@ -62,7 +62,7 @@ Além das semanas de desenvolvimento (sprints) também foram coontabilizados o p
   
 |  Alunos      | Equipamento  | Enegia         | Internet    |        Total | 
 |--------------|--------------|----------------|-------------|--------------|
-| R$ 32.011,20 |   R$ 42.000  | R$ R$ 1.181,35 | R$ 2.475,00 | R$ 77.667,55 |
+| R$ 49.795,20 |   R$ 42.000  | R$ R$ 1.837,74 | R$ 3.850,00 | R$ 97.482,94 |
 
 
 
@@ -70,7 +70,21 @@ Além das semanas de desenvolvimento (sprints) também foram coontabilizados o p
   
 |  Alunos      | Equipamento  | Enegia         | Internet    | Total        | 
 |--------------|--------------|----------------|-------------|--------------|
-| R$ 32.011,20 | R$ 42.000    | R$ R$ 1.181,35 | R$ 2.475,00 | R$ 77.667,55 |
+| R$ 28.454,40 | R$ 42.000    | R$ R$ 1.050,08 | R$ 2.200,00 | R$ 73.704,48 |
+
+
+- Custo da Release MVP:
+  
+|  Alunos      | Equipamento  | Enegia         | Internet    | Total        | 
+|--------------|--------------|----------------|-------------|--------------|
+| R$ 14.227,20 | R$ 0  | R$ 525,04 | R$ 1.100,00 | R$ 15.852,24 |
+
+
+- Custo da Release N:
+  
+|  Alunos      | Equipamento  | Enegia         | Internet    | Total        | 
+|--------------|--------------|----------------|-------------|--------------|
+| R$ 7.113,60 | R$ 0    | R$ 262,62 | R$ 550,0 | R$ 7.926,12 |
 
 
 
@@ -79,6 +93,11 @@ Além das semanas de desenvolvimento (sprints) também foram coontabilizados o p
 |  Alunos     |   Enegia  | Internet | Total por Semana | 
 |-------------|-----------|----------|------------------|
 | R$ 3.556,80 | R$ 131,26 |  R$ 275  | R$ 3.963,06      |
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/1SBTl11r1Ljvw7XKt4Z5t6L6VxT39uDKFdNz4LeyCeis/edit?gid=1669997228#gid=1669997228" width="900px" height="600px"></iframe>
+
+[Tabela com os valores detalhados](https://docs.google.com/spreadsheets/d/1SBTl11r1Ljvw7XKt4Z5t6L6VxT39uDKFdNz4LeyCeis/edit?usp=sharing)
 
 ## Referências
 
