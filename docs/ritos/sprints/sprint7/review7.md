@@ -1,8 +1,7 @@
 ## Review
 
-Data: 02/09/24
+Data: 02/09/24  
 Facilitador: Sara
-Responsáveis pela ata: João Victor e Davi Nobre
 
 #### Participantes:
 

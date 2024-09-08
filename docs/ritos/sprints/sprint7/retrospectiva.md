@@ -1,4 +1,4 @@
-# Retrospectiva da Release 1
+# Retrospectiva 30/08
 
 ## Pontos positivos e negativos
 
