@@ -35,11 +35,15 @@ plugins:
 nav:
   - Sobre: index.md
   - Gestão:
-      - Riscos: gestao/riscos.md
-      - Arquitetura: gestao/arquitetura.md
       - EAP: gestao/eap.md
+      - Entregas e roadmap: gestao/roadmap.md
+      - Backlog do produto: gestao/backlog.md
       - Metodologia: gestao/metodologia.md
+      - Arquitetura: gestao/arquitetura.md
+      - Qualidade: gestao/planoQualidade.md
+      - Melhorias e defeitos: gestao/melhorias-defeitos.md
       - Custo: gestao/custo.md
+      - Riscos: gestao/riscos.md
       - Guia de contribuição: gestao/guia-de-contribuicao.md
   - Alinhamento da equipe:
       - Quadro de disponibilidade: alinhamento/disponibilidade.md
@@ -47,33 +51,55 @@ nav:
       - Planejamento de dojos: alinhamento/dojos.md
       - Canais de comunicação: alinhamento/canais.md
   - Lean Inception:
-      - Dia 1: lean/dia1.md
-      - Dia 2: lean/dia2.md
-      - Dia 3: lean/dia3.md
-      - Dia 4: lean/dia4.md
-      - Dia 5: lean/dia5.md
-      - Dia 6: lean/dia6.md
-      - Dia 7: lean/dia7.md
+      - Parte 1: lean/dia1.md
+      - Parte 2: lean/dia2.md
+      - Parte 3: lean/dia3.md
+      - Parte 4: lean/dia4.md
+      - Parte 5: lean/dia5.md
+      - Parte 6: lean/dia6.md
+      - Parte 7: lean/dia7.md
   - Sprints:
       - Início:
           - Retomada às atividades: ritos/sprints/inicio/retomada_inicio.md
           - Retrospectiva: ritos/sprints/inicio/retrospec_inicio.md
       - Sprint 1:
           - Planning: ritos/sprints/sprint1/planning1.md
+          - Review: ritos/sprints/sprint1/review1.md
           - Pareamentos: ritos/sprints/sprint1/pareamentos1.md
       - Sprint 2:
-          - Planning: ritos/sprints/sprint2/reviewplanning2.md
+          - Planning: ritos/sprints/sprint2/planning2.md
+          - Retro: ritos/sprints/sprint2/retrospectiva.md
+          - Review: ritos/sprints/sprint2/review2.md
           - Pareamentos: ritos/sprints/sprint2/pareamentos2.md
       - Sprint 3:
-          - Planning: ritos/sprints/sprint3/reviewplanning3.md
+          - Planning: ritos/sprints/sprint3/planning3.md
+          - Retro: ritos/sprints/sprint3/retrospectiva.md
+          - Review: ritos/sprints/sprint3/review3.md
           - Pareamentos: ritos/sprints/sprint3/pareamentos3.md
       - Sprint 4:
-          - Planning: ritos/sprints/sprint4/reviewplanning4.md
+          - Planning: ritos/sprints/sprint4/planning4.md
+          - Retro: ritos/sprints/sprint4/retrospectiva.md
+          - Review: ritos/sprints/sprint4/review4.md
           - Pareamentos: ritos/sprints/sprint4/pareamentos4.md
       - Sprint 5:
-          - Planning: ritos/sprints/sprint5/reviewplanning5.md
+          - Planning: ritos/sprints/sprint5/planning5.md
+          - Retro: ritos/sprints/sprint5/retrospectiva.md
+          - Review: ritos/sprints/sprint5/review5.md
           - Pareamentos: ritos/sprints/sprint5/pareamentos5.md
+      - Sprint 6:
+          - Planning: ritos/sprints/sprint6/planning6.md
+          - Review: ritos/sprints/sprint6/review6.md
+          - Pareamentos: ritos/sprints/sprint6/pareamentos6.md
+      - Sprint 7:
+          - Planning: ritos/sprints/sprint7/planning7.md
+          - Retro: ritos/sprints/sprint7/retrospectiva.md
+          - Review: ritos/sprints/sprint7/review7.md
+          - Pareamentos: ritos/sprints/sprint7/pareamentos7.md
+      - Sprint 8:
+          - Planning: ritos/sprints/sprint8/planning8.md
+          - Retro: ritos/sprints/sprint8/retrospectiva.md
 
   - Prototipagem:
       - Identidade Visual: prototipagem/idv.md
       - Testes de usabilidade: prototipagem/testesusabilidade.md
+      - Protótipo de alta fidelidade: prototipagem/prototipo.md
