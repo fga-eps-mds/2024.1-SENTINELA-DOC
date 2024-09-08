@@ -35,13 +35,14 @@ plugins:
 nav:
   - Sobre: index.md
   - Gestão:
-      - Riscos: gestao/riscos.md
       - Backlog do produto: gestao/backlog.md
       - Arquitetura: gestao/arquitetura.md
       - EAP: gestao/eap.md
       - Metodologia: gestao/metodologia.md
       - Qualidade: gestao/planoQualidade.md
+      - Melhorias e defeitos: gestao/melhorias-defeitos.md
       - Custo: gestao/custo.md
+      - Riscos: gestao/riscos.md
       - Guia de contribuição: gestao/guia-de-contribuicao.md
   - Alinhamento da equipe:
       - Quadro de disponibilidade: alinhamento/disponibilidade.md
