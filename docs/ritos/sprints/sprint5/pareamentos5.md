@@ -10,3 +10,9 @@ Na Sprint 5, as atividades foram separadas de forma a aliviar o gargalo de ativi
 | Milena                                | US05 | Testes unitários de Cadastro de contas bancárias     |
 | Guilherme, João Victor e Victor Yukio | US16 | Visualizar dashboard sobre sindicalizados            |
 | Davi Nobre, Davi Mesquita e Ingrid    | US20 | Cadastrar movimentações financeiras                  |
+
+## Histórico de versão
+
+| Alteração            | Data     | Autor       |
+| -------------------- | -------- | ----------- |
+| Criação do documento | 08/09/24 | Sara Campos |
