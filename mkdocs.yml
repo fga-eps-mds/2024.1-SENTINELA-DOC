@@ -45,6 +45,7 @@ nav:
       - Custo: gestao/custo.md
       - Riscos: gestao/riscos.md
       - Guia de contribuição: gestao/guia-de-contribuicao.md
+      - Manual de instalação: gestao/manual-de-instalacao.md
   - Alinhamento da equipe:
       - Quadro de disponibilidade: alinhamento/disponibilidade.md
       - Quadro de conhecimento: alinhamento/heatmap.md
