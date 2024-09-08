@@ -36,6 +36,7 @@ nav:
   - Sobre: index.md
   - Gestão:
       - Riscos: gestao/riscos.md
+      - Backlog do produto: gestao/backlog.md
       - Arquitetura: gestao/arquitetura.md
       - EAP: gestao/eap.md
       - Metodologia: gestao/metodologia.md
@@ -61,20 +62,42 @@ nav:
           - Retrospectiva: ritos/sprints/inicio/retrospec_inicio.md
       - Sprint 1:
           - Planning: ritos/sprints/sprint1/planning1.md
+          - Review: ritos/sprints/sprint1/review1.md
           - Pareamentos: ritos/sprints/sprint1/pareamentos1.md
       - Sprint 2:
-          - Planning: ritos/sprints/sprint2/reviewplanning2.md
+          - Planning: ritos/sprints/sprint2/planning2.md
+          - Retro: ritos/sprints/sprint2/retrospectiva.md
+          - Review: ritos/sprints/sprint2/review2.md
           - Pareamentos: ritos/sprints/sprint2/pareamentos2.md
       - Sprint 3:
-          - Planning: ritos/sprints/sprint3/reviewplanning3.md
+          - Planning: ritos/sprints/sprint3/planning3.md
+          - Retro: ritos/sprints/sprint3/retrospectiva.md
+          - Review: ritos/sprints/sprint3/review3.md
           - Pareamentos: ritos/sprints/sprint3/pareamentos3.md
       - Sprint 4:
-          - Planning: ritos/sprints/sprint4/reviewplanning4.md
+          - Planning: ritos/sprints/sprint4/planning4.md
+          - Retro: ritos/sprints/sprint4/retrospectiva.md
+          - Review: ritos/sprints/sprint4/review4.md
           - Pareamentos: ritos/sprints/sprint4/pareamentos4.md
       - Sprint 5:
-          - Planning: ritos/sprints/sprint5/reviewplanning5.md
+          - Planning: ritos/sprints/sprint5/planning5.md
+          - Retro: ritos/sprints/sprint5/retrospectiva.md
+          - Review: ritos/sprints/sprint5/review5.md
           - Pareamentos: ritos/sprints/sprint5/pareamentos5.md
+      - Sprint 6:
+          - Planning: ritos/sprints/sprint6/planning6.md
+          - Review: ritos/sprints/sprint6/review6.md
+          - Pareamentos: ritos/sprints/sprint6/pareamentos6.md
+      - Sprint 7:
+          - Planning: ritos/sprints/sprint7/planning7.md
+          - Retro: ritos/sprints/sprint7/retrospectiva.md
+          - Review: ritos/sprints/sprint7/review7.md
+          - Pareamentos: ritos/sprints/sprint7/pareamentos7.md
+      - Sprint 8:
+          - Planning: ritos/sprints/sprint8/planning8.md
+          - Retro: ritos/sprints/sprint8/retrospectiva.md
 
   - Prototipagem:
       - Identidade Visual: prototipagem/idv.md
       - Testes de usabilidade: prototipagem/testesusabilidade.md
+      - Protótipo de alta fidelidade: prototipagem/prototipo.md
