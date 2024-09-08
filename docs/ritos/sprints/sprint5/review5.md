@@ -1,7 +1,7 @@
 ## Review
 
-Data: 19/08/24
-Facilitador: Ingrid
+Data: 19/08/24  
+Facilitador: Ingrid  
 Responsáveis pela ata: João Victor e Davi Nobre
 
 #### Participantes:
