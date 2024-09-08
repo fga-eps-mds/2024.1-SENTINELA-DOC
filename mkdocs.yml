@@ -39,6 +39,7 @@ nav:
       - Arquitetura: gestao/arquitetura.md
       - EAP: gestao/eap.md
       - Metodologia: gestao/metodologia.md
+      - Qualidade: gestao/planoQualidade.md
       - Custo: gestao/custo.md
       - Guia de contribuição: gestao/guia-de-contribuicao.md
   - Alinhamento da equipe:
