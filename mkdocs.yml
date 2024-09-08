@@ -34,6 +34,8 @@ plugins:
 
 nav:
   - Sobre: index.md
+  - Guia de contribuição: gestao/guia-de-contribuicao.md
+  - Manual de instalação: gestao/manual-de-instalacao.md
   - Gestão:
       - EAP: gestao/eap.md
       - Entregas e roadmap: gestao/roadmap.md
@@ -45,8 +47,7 @@ nav:
       - EVM: gestao/custo.md
       - Custo: gestao/evm.md
       - Riscos: gestao/riscos.md
-      - Guia de contribuição: gestao/guia-de-contribuicao.md
-      - Manual de instalação: gestao/manual-de-instalacao.md
+      - Integração e deploy contínuos: gestao/ci-cd.md
   - Alinhamento da equipe:
       - Quadro de disponibilidade: alinhamento/disponibilidade.md
       - Quadro de conhecimento: alinhamento/heatmap.md
