@@ -101,7 +101,7 @@ As métricas definidas para o Sentinela foram:
 | ------------------------ | --------------------------------------------------- |
 | Files                    | Quantidade de arquivos de código                    |
 | Functions                | Quantidade de funções no código                     |
-| Complexity               | Complexidade ciclomática                            |
+| Complexity               | Complexidade cognitiva                              |
 | Comment Lines Density    | Densidade (%) de linhas comentadas                  |
 | Duplicated Lines density | Densidade (%) de linhas duplicadas                  |
 | Coverage                 | Cobertura de código pelos testes                    |
@@ -120,52 +120,52 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 
 | Métrica                      | Valor referência | Valor alcançado |
 | ---------------------------- | ---------------- | --------------- |
-| Complexity                   | até 10           | 1,408           |
+| Complexity                   | até 10           | 9               |
 | Comment Lines Density (%)    | até 30%          | 1,9%            |
 | Duplicated Lines Density (%) | até 5%           | 7%              |
 | Coverage                     | acima de 80%     | 78,1%           |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 0(A)            |
+| Security Rating              | 0 (A)            | 0 (A)            |
 | Satisfação do usuário        | acima de 3       |                 |
 
 #### Repositório do Backend - Usuários
 
 | Métrica                      | Valor referência | Valor alcançado |
 | ---------------------------- | ---------------- | --------------- |
-| Complexity                   | até 10           | 112             |
+| Complexity                   | até 10           | 3               |
 | Comment Lines Density (%)    | até 30%          | 4,7%            |
 | Duplicated Lines Density (%) | até 5%           | 0,0%            |
 | Coverage                     | acima de 80%     | 78,2            |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 0(A)            |
+| Security Rating              | 0 (A)            | 0 (A)            |
 | Satisfação do usuário        | acima de 3       |                 |
 
 #### Repositório do Backend - Financeiro
 
 | Métrica                      | Valor referência | Valor alcançado |
 | ---------------------------- | ---------------- | --------------- |
-| Complexity                   | até 10           | 162             |
+| Complexity                   | até 10           | 1               |
 | Comment Lines Density (%)    | até 30%          | 5,5%            |
 | Duplicated Lines Density (%) | até 5%           | 0,0%            |
 | Coverage                     | acima de 80%     | 86,5%           |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 0(A)            |
+| Security Rating              | 0 (A)            | 0 (A)            |
 | Satisfação do usuário        | acima de 3       |                 |
 
 #### Repositório do Backend - Benefícios
 
 | Métrica                      | Valor referência | Valor alcançado |
 | ---------------------------- | ---------------- | --------------- |
-| Complexity                   | até 10           | 28              |
+| Complexity                   | até 10           | 2               |
 | Comment Lines Density (%)    | até 30%          | 4,7%            |
 | Duplicated Lines Density (%) | até 5%           | 0,0%            |
 | Coverage                     | acima de 80%     | 70,4%           |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 1(E)            |
+| Security Rating              | 0 (A)            | 1 (E)            |
 | Satisfação do usuário        | acima de 3       |                 |
 
 ## Histórico de Versões
