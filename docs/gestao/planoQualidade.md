@@ -114,7 +114,7 @@ As métricas definidas para o Sentinela foram:
 
 ### Métricas para o produto
 
-O uso de métricas permite identificar subcaracterísticas associadas e avaliar a qualidade do produto. Essa análise também possibilita medir a produtividade do projeto, gerando resultados que influenciam as decisões de desenvolvimento. Com base nas métricas especificadas no SonarCloud e Q-Rapids, além dos dados coletados, foram definidos os valores mínimos aceitáveis para cada métrica no projeto Sentinela, conforme mostrado nas tabelas abaixo.
+O uso de métricas permite identificar subcaracterísticas associadas e avaliar a qualidade do produto. Essa análise também possibilita medir a produtividade do projeto, gerando resultados que influenciam as decisões de desenvolvimento. Com base nas métricas especificadas no SonarCloud e Q-Rapids, além dos dados coletados, foram definidos os valores mínimos aceitáveis para cada métrica no projeto Sentinela, conforme mostrado nas tabelas abaixo.  Os dados referêntes a satisfação do usuário foram coletados a partir do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSd1qZnT252QaJrbh8GwZZIOw2DFZUn0R2ZtrhHWqRdw0mqlhA/viewform) fornecido aos POs, que visa quantificar em escala de 1 a 5 qual o nível de satisfação do cliente quanto ao trabalho realizado e entregue pelo grupo Sentinela 2024/1, baseado nos modelos CSAT e NPS.
 
 #### Repositório do Frontend
 
@@ -126,8 +126,8 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 | Coverage                     | acima de 80%     | 78,1%           |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 0 (A)            |
-| Satisfação do usuário        | acima de 3       |                 |
+| Security Rating              | 0 (A)            | 0 (A)           |
+| Satisfação do usuário        | acima de 3       | 5               |
 
 #### Repositório do Backend - Usuários
 
@@ -139,8 +139,8 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 | Coverage                     | acima de 80%     | 78,2            |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 0 (A)            |
-| Satisfação do usuário        | acima de 3       |                 |
+| Security Rating              | 0 (A)            | 0 (A)           |
+| Satisfação do usuário        | acima de 3       | 5               |
 
 #### Repositório do Backend - Financeiro
 
@@ -152,8 +152,8 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 | Coverage                     | acima de 80%     | 86,5%           |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 0 (A)            |
-| Satisfação do usuário        | acima de 3       |                 |
+| Security Rating              | 0 (A)            | 0 (A)           |
+| Satisfação do usuário        | acima de 3       | 5               |
 
 #### Repositório do Backend - Benefícios
 
@@ -165,8 +165,8 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 | Coverage                     | acima de 80%     | 70,4%           |
 | Test Failures                | 0                | 0               |
 | Test Errors                  | 0                | 0               |
-| Security Rating              | 0 (A)            | 1 (E)            |
-| Satisfação do usuário        | acima de 3       |                 |
+| Security Rating              | 0 (A)            | 1 (E)           |
+| Satisfação do usuário        | acima de 3       | 5               |
 
 ## Histórico de Versões
 
