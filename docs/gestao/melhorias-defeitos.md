@@ -26,8 +26,16 @@ Nas semanas finais (Release N), quando o foco era na entrega de melhorias e corr
 - list user [feito]
 - profile (update) [feito]
 
+Por fim, o projeto é finalizado com a necessidade das seguintes correções de defeitos:
+
+| US   | Defeito                                                                                                                                                                                                                                                                                                    | Descrição                                                                                                                                                                                                                                 | Prioridade                                                                                                                                   |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| US04 | Inicialmente, havia sido levantado que as telas de cadastro de usuários teriam os dados pedidos pelos P.Os. No entanto, enquanto era desenvolvida, notou-se que essa US precisava de telas para representar usuários do tipo filiados. Essa correção, no entanto, não foi finalizada a nível de interface. | A correção foi feita apenas a nível de banco de dados, já que agora as tabelas Usuário e Filiado possuem relação de herança, mas é preciso criar protótipos de como essas telas irão funcionar com a mudança e refletir isso no frontend. | A prioridade dessa correção é considerada alta, pois afeta a performance de outras US e é uma funcionalidade básica do sistema.              |
+| US34 | Quando uma solicitação é rejeitada, um email deve ser enviado ao solicitante para que ele seja informado sobre a rejeição e, caso queira, entre em contato com o sindicato                                                                                                                                 | Esse defeito deve ser corrigido com uma revisão simples do código, visto que, a funcionalidade foi implementada e já havia sido testada antes, mas no momento do teste de aceitação final do usuário acabou não funcionando perfeitamente | A prioridade dessa correção não é tão alta por não afetar outras US, mas por ser uma correção rápida pode ser significativamente priorizada. |
+
 ## Histórico de versão
 
-| Alteração            | Data     | Autor       |
-| -------------------- | -------- | ----------- |
-| Criação do documento | 08/09/24 | Sara Campos |
+| Alteração                                                             | Data     | Autor       |
+| --------------------------------------------------------------------- | -------- | ----------- |
+| Criação do documento                                                  | 08/09/24 | Sara Campos |
+| Atualização a partir do feedback do P.O (Adiciona tabela de Defeitos) | 09/09/24 | Sara Campos |

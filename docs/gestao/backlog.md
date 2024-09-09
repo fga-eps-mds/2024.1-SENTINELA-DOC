@@ -31,14 +31,17 @@ A EAP, no entanto, não permite uma visualização do que foi entregue aos P.Os,
 | US18         | Atribuir perfis                                                                         | Enviada para aceitação em 08/09                                                                                                                                                       |
 | US19         | Cadastrar benefícios                                                                    | Aceita pelo P.O Matheus em 21/08                                                                                                                                                      |
 | US20         | Cadastrar movimentações financeiras                                                     | Enviada para aceitação com correções finais em 06/09                                                                                                                                  |
-| US21         | Gerar relatório de financeiro                                                           | Enviada para aceitação em 06/09                                                                                                                                                       |
+| US21         | Gerar relatório de financeiro                                                           | Aceita pelo P.O Matheus em 09/09                                                                                                                                                      |
 | US22         | Acessar prestação de contas                                                             | Com a entrada da US35 no Backlog do Produto, a US22 foi despriorizada num acordo entre time e P.Os, portanto, não foi entregue                                                        |
 | US23         | Acessar histórico de contribuição dos sindicalizados                                    | Enviada para aceitação com correções finais em 08/09                                                                                                                                  |
-| US34         | Gerenciar filiação                                                                      | Enviada para aceitação com correções finais em 06/09                                                                                                                                  |
+| US34         | Gerenciar filiação                                                                      | Não aceita por conta de defeitos                                                                                                                                                      |
 | US35         | Cadastrar órgãos/lotações (adicionado ao Backlog do Produto com o projeto em andamento) | Enviada para aceitação em 02/09                                                                                                                                                       |
+
+Apesar de entregues aos P.Os, algumas US apresentaram defeitos, que são explicitados no documento de [Melhorias e defeitos](./melhorias-defeitos.md).
 
 ## Histórico de Versões
 
-| Alteração            | Data     | Autor       |
-| -------------------- | -------- | ----------- |
-| Criação do documento | 08/09/24 | Sara Campos |
+| Alteração                                                                    | Data     | Autor       |
+| ---------------------------------------------------------------------------- | -------- | ----------- |
+| Criação do documento                                                         | 08/09/24 | Sara Campos |
+| Atualização a partir do feedback do P.O (Atualiza aceitação de US na tabela) | 09/09/24 | Sara Campos |

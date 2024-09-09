@@ -23,27 +23,23 @@ Baseando-se nos gráficos gerados por sprint com suas referências de Valor Agre
 ![r1](../assets/R1_EVM.png)
 
 A Release 1 contou com duas semanas totais de desenvolvimento, com um planejamento do valor agregado do sistema próximo à 25% do total esperado. Porém por dificuldades iniciais da equipe no processo de desenvolvimento o valor total entregue e aceito não alcançou essa meta.
-Sendo assim, a relase planejou 31 pontos e entregou 0.
 
 ### MVP
 
 ![mvp](../assets/RMVP_EVM.png)
 
 A entrega da Release MVP consistiu em 4 semanas completas de desenvolvimento. Como pode ser verificado pelo gráfico, as primeiras semanas de desenvolvimento não trouxeram nenhum valor agregado enquanto o valor planejado continuava crescendo. Quanto ao valor planejado, esse cescimento constante se dava pela utilização de metodologias ágeis por parte da equipe que se baseiam na entrega contínua de valor. Já o comportamento do valor agregado pode ser relacionado com tanto a necessidade de reescrita e organização de critérios de aceitação e histórias de usuário, quanto à demora por parte do cliente para validação das histórias entregues.
-Sendo assim, a relase planejou 34 pontos e entregou 18.
 
 ### Release N
 
 ![rn](../assets/RN_EVM.png)
 
 Para a entrega final, o projeto contou com 2 sprints de desenvolvimento. O foco dessas sprints era finalizar as histórias de usuário similarmente à conrrigir possíveis erros de funcionalidade ou compreensão de histórias de usuário anteriores, de forma que o planejamento dessas sprints trouxe menor quantidade de pontos por sprint. Porém por conta de avanço na aceitação por parte do usuário tivemos maior quantidade de pontos de história fechados.
-Sendo assim, a relase planejou 13 pontos e entregou 39.
 
 ### Análise Total
 
 ![total](../assets/TOTAL_EVM.png)
 Assim, analisando o gráfico total do projeto é possível ver uma estagnação da equipe para finalizar as entregas, muito passando pelos problemas citados de erros de comunicação levando à reescrita de histórias e critérios de aceitação, assim como a demora muitas vezes para validas as entregas já relizadas. Ainda assim, foi possível finalizar muitas das histórias do projeto.
-Sendo assim, o projeto planejou a entrega de 78 pontos e entregou 57 pontos até a data.
 
 ## Histórico de Revisão
 
