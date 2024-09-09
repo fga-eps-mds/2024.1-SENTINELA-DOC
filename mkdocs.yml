@@ -61,6 +61,10 @@ nav:
       - Parte 5: lean/dia5.md
       - Parte 6: lean/dia6.md
       - Parte 7: lean/dia7.md
+  - Prototipagem:
+      - Identidade Visual: prototipagem/idv.md
+      - Testes de usabilidade: prototipagem/testesusabilidade.md
+      - Protótipo de alta fidelidade: prototipagem/prototipo.md
   - Sprints:
       - Início:
           - Retomada às atividades: ritos/sprints/inicio/retomada_inicio.md
@@ -101,8 +105,4 @@ nav:
       - Sprint 8:
           - Planning: ritos/sprints/sprint8/planning8.md
           - Retro: ritos/sprints/sprint8/retrospectiva.md
-
-  - Prototipagem:
-      - Identidade Visual: prototipagem/idv.md
-      - Testes de usabilidade: prototipagem/testesusabilidade.md
-      - Protótipo de alta fidelidade: prototipagem/prototipo.md
+  - Conclusão do projeto: conclusao.md

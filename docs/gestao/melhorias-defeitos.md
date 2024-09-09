@@ -14,9 +14,17 @@ Assim, foram adicionadas issues de _Enhancement_ relacionadas às US que apresen
 
 Além disso, foi instanciada a necessidade de duas novas US no Backlog do Produto, das quais uma foi trazida para desenvolvimento nesse semestre, devido a sua prioridade (US35 - Cadastrar órgãos/lotações), e a outra foi identificada para ser desenvolvida futuramente, em outros semestres (US36 - Cadastrar postos de trabalho).
 
+A não finalização da US04, assim como a não entrega da ENH-US04 implicam na necessidade de revisão e refatoramento dos formulários referentes a filiação e cadastro de usuários do tipo filiado, o que deve ser conduzido futuramente pelos próximos times responsáveis.
+
 Com relação a defeitos, alguns foram identificados ao longo do projeto conforme retorno do usuário nos testes de aceitação. Todos estes pedidos foram encaminhados para correção e entregues de acordo, permitindo assim a entrega final das US.
 
-Nas semanas finais (Release N), quando o foco era na entrega de melhorias e correções, o time criou um [Mapeamento de Bugs](https://docs.google.com/spreadsheets/d/1mJo4xZpqivDqr3B99fJFf-j5_3BPYpoKceONAV9nmyE/edit?usp=sharing) a serem corrigidos, bem como foram inspecionados minuciosamente os estilos (CSS/HTML) de todas as páginas para garantir uma boa Experiência de Usuário.
+Nas semanas finais (Release N), quando o foco era na entrega de melhorias e correções, o time criou um [Mapeamento de Bugs](https://docs.google.com/spreadsheets/d/1mJo4xZpqivDqr3B99fJFf-j5_3BPYpoKceONAV9nmyE/edit?usp=sharing) a serem corrigidos, bem como foram inspecionados minuciosamente os estilos (CSS/HTML) de algumas páginas para garantir uma boa Experiência de Usuário. Foram elas:
+
+- contributionHistoric [feito]
+- fornecedores (create and update) [feito]
+- list roles page [feito]
+- list user [feito]
+- profile (update) [feito]
 
 ## Histórico de versão
 
