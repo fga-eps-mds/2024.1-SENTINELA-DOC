@@ -44,8 +44,8 @@ nav:
       - Arquitetura: gestao/arquitetura.md
       - Qualidade: gestao/planoQualidade.md
       - Melhorias e defeitos: gestao/melhorias-defeitos.md
-      - EVM: gestao/custo.md
-      - Custo: gestao/evm.md
+      - EVM: gestao/evm.md
+      - Custo: gestao/custo.md
       - Riscos: gestao/riscos.md
       - Integração e deploy contínuos: gestao/ci-cd.md
   - Alinhamento da equipe:
