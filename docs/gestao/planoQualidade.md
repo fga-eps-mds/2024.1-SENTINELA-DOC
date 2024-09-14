@@ -6,7 +6,7 @@ De acordo com a ISO 25010, a qualidade de um produto de software é definida pel
 
 ## Processo de Qualidade
 
-Para garantir a qualidade do projeto, integramos cada serviço desenvolvido com a ferramenta SonarQube, utilizando a interface SonarCloud para proporcionar uma análise mais amigável e detalhada de todas as métricas coletadas. O processo é orientado pela validação das US com o cliente, utilizando protótipos e critérios de aceitação, seguido pela implementação contínua de melhorias. Após o desenvolvimento, as funcionalidades passam pelos testes de aceitação conduzidos pelo cliente, assegurando que ajustes e aperfeiçoamentos sejam aplicados. Caso novas melhorias sejam identificadas, elas são incorporadas ao processo de desenvolvimento, reforçando a qualidade do produto.
+O processo de qualidade foi orientado pela validação das US com o cliente, utilizando protótipos e critérios de aceitação, seguido pela implementação contínua de melhorias. Após o desenvolvimento, as funcionalidades passam pelos testes de aceitação conduzidos pelo cliente, assegurando que ajustes e aperfeiçoamentos sejam aplicados. Caso novas melhorias sejam identificadas, elas são incorporadas ao processo de desenvolvimento, reforçando a qualidade do produto. Para garantir a qualidade do projeto, integramos cada serviço desenvolvido com a ferramenta SonarQube, utilizando a interface SonarCloud para uma melhor vizualização do monitoramento das métricas de qualidade ocorrido ao longo do projeto.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd21595f-81ea-46ab-ba02-123a3e4f390f" alt="eps qualidade">
@@ -36,60 +36,23 @@ Para garantir a qualidade do projeto, integramos cada serviço desenvolvido com 
 
 **ZenHub**: ferramenta de gerenciamento de projetos que se integra ao GitHub, oferecendo recursos como quadros kanban e relatórios de produtividade
 
-## Acompanhamento de métricas do sonar
-
-### Release 1
-
-Funcionalidades presentes:
-
-- US01 - Fazer login
-- US02 - Solicitar filiação
-- US04 - Cadastrar usuários
-- US33 - Atualizar dados de usuário
-
-### Release 2
-
-Funcionalidades presentes:
-
-- US02 - Solicitar filiação (Ajustes pedidos na Release 1)
-- US19- Cadastrar benefícios
-- US34 - Gerenciar filiações
-
-### Release 3
-
-Funcionalidades presentes:
-
-- US03 - Cadastrar fornecedores
-- US05 - Cadastrar contas bancárias
-- US17 - Cadastrar perfis no sistema
-
-### Release MVP
-
-Funcionalidades presentes:
-
-- US01 - Fazer login no sistema (Ajustes pedidos na Release 1)
-- US03 - Cadastrar fornecedores (Ajustes pedidos na Release 3)
-- US16 - Visualizar dashboard sobre os sindicalizados
-- US20 - Cadastrar movimentações financeiras
-- US23 - Consulta do Histórico de Contribuições do sindicalizado
-- US35 - Cadastro de órgão/lotação
-- US34 - Gerenciar solicitações de filiação (Ajustes pedidos na Release 2)
-
-### Release 5
-
-Funcionalidades presentes:
-
-- US03 - Cadastrar fornecedores (Ajustes pedidos na Release MVP)
-- US20 - Cadastrar movimentações financeiras (Ajustes pedidos na Release MVP)
-- US17 - Cadastrar perfis (Ajustes necessários identificados na Release MVP)
-- US18 - Atribuir perfis
-- US21 - Gerar relatório de movimentações financeiras
-- ENH-US02 - Melhorias da US02
-- ENH-US05 - Melhorias da US05
-
 # Modelo de Qualidade do Q-Rapids
 
-Foi seguido o modelo de qualidade Q-Rapids. Ele foi projetado para auxiliar equipes de desenvolvimento a tomar decisões informadas com base em métricas de qualidade e dados em tempo real, coletados automaticamente ao longo do ciclo de vida do software. O SonarCloud, plataforma de apoio para monitoramento de métricas de integração contínua, integra diferentes fontes de informação para gerar relatórios e dashboards que oferecem uma visão detalhada sobre a saúde do projeto. Seu objetivo principal é melhorar a qualidade do software, facilitar a gestão de riscos e otimizar processos, permitindo que as equipes sejam mais ágeis e eficazes na entrega de software.
+
+De acordo com o site do projeto Q-Rapids (2024), o projeto possui três objetivos estratégicos gerais (GO1-GO3), focados no impacto, e quatro objetivos científicos (SO1-SO4), derivados dos objetivos estratégicos para garantir o sucesso do projeto.
+
+Objetivos estratégicos gerais
+- Melhorar os níveis de qualidade do software
+- Aumentar a produtividade no ciclo de vida do software
+- Reduzir o tempo de lançamento do software no mercado
+
+Objetivos cientificos
+- Coletar e analisar dados de tempo de execução e de tempo de design
+- Definir o ciclo de vida do software integrando requisitos de qualidade e requisitos funcionais
+- Elaborar indicadores-chave estratégicos para os tomadores de decisão gerirem o processo de desenvolvimento
+- Fornecer suporte de ferramentas para um ciclo de vida do software voltado para a qualidade
+
+ SonarCloud, plataforma de apoio para monitoramento de métricas de integração contínua, integra diferentes fontes de informação para gerar relatórios e dashboards que oferecem uma visão detalhada sobre a saúde do projeto. Contribuindo para a execução dos objetivos definidos no modelo Q-rapids.
 
 Os fatores e métricas de qualidade são critérios usados para avaliar a eficiência, desempenho e confiabilidade de um produto de software, seu processo de desenvolvimento e a organização como um todo. Esses fatores, como manutenibilidade, confiabilidade, usabilidade e eficiência, ajudam a medir quão bem o software atende aos requisitos técnicos e às expectativas dos usuários. As métricas associadas fornecem dados quantitativos que permitem monitorar e melhorar a qualidade continuamente. Utilizá-las é essencial para identificar problemas precocemente, aumentar a satisfação do cliente, reduzir custos com retrabalho e garantir o alinhamento do produto com os objetivos estratégicos da organização.
 
@@ -118,7 +81,7 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 
 #### Repositório do Frontend
 
-| Métrica                      | Valor referência | Valor alcançado |
+| Métrica                      | Valor referência | Valor alcançado ao final do projeto |
 | ---------------------------- | ---------------- | --------------- |
 | Complexity                   | até 10           | 9               |
 | Comment Lines Density (%)    | até 30%          | 1,9%            |
@@ -131,7 +94,7 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 
 #### Repositório do Backend - Usuários
 
-| Métrica                      | Valor referência | Valor alcançado |
+| Métrica                      | Valor referência | Valor alcançado ao final do projeto  |
 | ---------------------------- | ---------------- | --------------- |
 | Complexity                   | até 10           | 3               |
 | Comment Lines Density (%)    | até 30%          | 4,7%            |
@@ -144,7 +107,7 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 
 #### Repositório do Backend - Financeiro
 
-| Métrica                      | Valor referência | Valor alcançado |
+| Métrica                      | Valor referência | Valor alcançado ao final do projeto  |
 | ---------------------------- | ---------------- | --------------- |
 | Complexity                   | até 10           | 1               |
 | Comment Lines Density (%)    | até 30%          | 5,5%            |
@@ -157,7 +120,7 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 
 #### Repositório do Backend - Benefícios
 
-| Métrica                      | Valor referência | Valor alcançado |
+| Métrica                      | Valor referência | Valor alcançado ao final do projeto  |
 | ---------------------------- | ---------------- | --------------- |
 | Complexity                   | até 10           | 2               |
 | Comment Lines Density (%)    | até 30%          | 4,7%            |
@@ -180,3 +143,5 @@ O uso de métricas permite identificar subcaracterísticas associadas e avaliar 
 ## Referências
 
 [ISO/IEC 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
+
+[Q-rapids](https://www.q-rapids.eu/about)
