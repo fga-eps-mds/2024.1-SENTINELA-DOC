@@ -9,7 +9,7 @@ De acordo com a ISO 25010, a qualidade de um produto de software é definida pel
 O processo de qualidade foi orientado pela validação das US com o cliente, utilizando protótipos e critérios de aceitação, seguido pela implementação contínua de melhorias. Após o desenvolvimento, as funcionalidades passam pelos testes de aceitação conduzidos pelo cliente, assegurando que ajustes e aperfeiçoamentos sejam aplicados. Caso novas melhorias sejam identificadas, elas são incorporadas ao processo de desenvolvimento, reforçando a qualidade do produto. Para garantir a qualidade do projeto, integramos cada serviço desenvolvido com a ferramenta SonarQube, utilizando a interface SonarCloud para uma melhor vizualização do monitoramento das métricas de qualidade ocorrido ao longo do projeto.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd21595f-81ea-46ab-ba02-123a3e4f390f" alt="eps qualidade">
+  <img src="https://github.com/user-attachments/assets/a4bbca79-6d04-483d-8d94-66ee71faebfe" alt="eps qualidade">
 </p>
 
 ## Métricas Monitoradas:
